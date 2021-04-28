@@ -8,7 +8,7 @@ def read(fname):
 
 
 setup(
-    name='flask-docs-cat',
+    name='Flask-Docs-Cat',
     version='0.1.4',
     url='https://github.com/cooler1217/flask-docs-cat.git',
     license='MIT',
